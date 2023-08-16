@@ -1,7 +1,7 @@
 
 {
     "actif": false,
-    "titleLevels": "Levels"
+    "titleLevels": "Levels",
     "appName": "grimace monster",
     "adsType": "admob",
     "admob": {
