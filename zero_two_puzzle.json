@@ -1,0 +1,24 @@
+{
+    "actif": false,
+    "titleLevels": "Levels",
+    "appName": "grimace monster",
+    "adsType": "admob",
+    "admob": {
+        "AdsId": "ca-app",
+        "bannerAdId": "ca-app-pub-9908468712156580/6447008441",
+        "interstitialAdId": "ca-app-pub-9908468712156580/1544421158",
+        "rewardedAdId": "ca-app-pub-9908468712156580/1544421158"
+    },
+    "facebook": {
+        "AdsId": "ca-app",
+        "bannerAdId": "ca-app-pub-9908468712156580/6447008441",
+        "interstitialAdId": "ca-app-pub-9908468712156580/1544421158",
+        "rewardedAdId": "ca-app-pub-9908468712156580/1544421158"
+    },
+    "unity": {
+        "AdsId": "ca-app",
+        "bannerAdId": "ca-app-pub-9908468712156580/6447008441",
+        "interstitialAdId": "ca-app-pub-9908468712156580/1544421158",
+        "rewardedAdId": "ca-app-pub-9908468712156580/1544421158"
+    }
+}
