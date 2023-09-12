@@ -2,6 +2,7 @@
     "actif": false,
     "titleLevels": "Levels",
     "appName": "grimace monster",
+    "appleId":"1212121",
     "adsType": "admob",
     "admob": {
         "AdsId": "ca-app",
